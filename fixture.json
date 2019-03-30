@@ -1,0 +1,37 @@
+
+{
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "snippet": {
+        "title": "Private video",
+        "description": "This video is private.",
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "private-video"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "DSAUHDH DUSAH",
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bar-foo-video-id"
+        }
+      }
+    },
+    {
+      "snippet": {
+        "title": "Foo bar video id",
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "foo-bar-video-id"
+        }
+      }
+    }
+  ]
+}
